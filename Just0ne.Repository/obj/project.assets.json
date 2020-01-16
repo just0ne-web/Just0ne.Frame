@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Repository\\Just0ne.Repository.csproj",
+      "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.Repository\\Just0ne.Repository.csproj",
       "projectName": "Just0ne.Repository",
-      "projectPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Repository\\Just0ne.Repository.csproj",
+      "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Repository\\Just0ne.Repository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Repository\\obj\\",
+      "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

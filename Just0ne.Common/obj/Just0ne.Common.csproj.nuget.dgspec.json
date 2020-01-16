@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Common\\Just0ne.Common.csproj": {}
+    "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj": {}
   },
   "projects": {
-    "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Common\\Just0ne.Common.csproj": {
+    "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Common\\Just0ne.Common.csproj",
+        "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj",
         "projectName": "Just0ne.Common",
-        "projectPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Common\\Just0ne.Common.csproj",
+        "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Common\\obj\\",
+        "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,11 +36,23 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "DapperExtensions.DotnetCore": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [

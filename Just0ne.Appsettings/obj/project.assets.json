@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Appsettings\\Just0ne.Appsettings.csproj",
+      "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.Appsettings\\Just0ne.Appsettings.csproj",
       "projectName": "Just0ne.Appsettings",
-      "projectPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Appsettings\\Just0ne.Appsettings.csproj",
+      "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Appsettings\\Just0ne.Appsettings.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Appsettings\\obj\\",
+      "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Appsettings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

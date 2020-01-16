@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.SignalrService\\Just0ne.SignalrService.csproj",
+      "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.SignalrService\\Just0ne.SignalrService.csproj",
       "projectName": "Just0ne.SignalrService",
-      "projectPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.SignalrService\\Just0ne.SignalrService.csproj",
+      "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.SignalrService\\Just0ne.SignalrService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.SignalrService\\obj\\",
+      "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.SignalrService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

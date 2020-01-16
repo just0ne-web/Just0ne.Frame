@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Redis\\Just0ne.Redis.csproj": {}
+    "e:\\MyGitHubProject\\Frame\\Just0ne.Redis\\Just0ne.Redis.csproj": {}
   },
   "projects": {
-    "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Redis\\Just0ne.Redis.csproj": {
+    "e:\\MyGitHubProject\\Frame\\Just0ne.Redis\\Just0ne.Redis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Redis\\Just0ne.Redis.csproj",
+        "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.Redis\\Just0ne.Redis.csproj",
         "projectName": "Just0ne.Redis",
-        "projectPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Redis\\Just0ne.Redis.csproj",
+        "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Redis\\Just0ne.Redis.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Redis\\obj\\",
+        "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Redis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

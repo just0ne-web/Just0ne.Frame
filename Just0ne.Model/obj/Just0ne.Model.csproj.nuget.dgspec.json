@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Model\\Just0ne.Model.csproj": {}
+    "e:\\MyGitHubProject\\Frame\\Just0ne.Model\\Just0ne.Model.csproj": {}
   },
   "projects": {
-    "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Model\\Just0ne.Model.csproj": {
+    "e:\\MyGitHubProject\\Frame\\Just0ne.Model\\Just0ne.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Model\\Just0ne.Model.csproj",
+        "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.Model\\Just0ne.Model.csproj",
         "projectName": "Just0ne.Model",
-        "projectPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Model\\Just0ne.Model.csproj",
+        "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Model\\Just0ne.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\MyGitHubProject\\Just0ne.Frame\\Just0ne.Model\\obj\\",
+        "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
