@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj": {}
+    "E:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj": {}
   },
   "projects": {
-    "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj": {
+    "E:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj",
+        "projectUniqueName": "E:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj",
         "projectName": "Just0ne.Common",
-        "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj",
+        "projectPath": "E:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\obj\\",
+        "outputPath": "E:\\MyGitHubProject\\Frame\\Just0ne.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,6 +53,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
             }
           },
           "imports": [
@@ -69,14 +73,14 @@
         }
       }
     },
-    "e:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj": {
+    "E:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj",
+        "projectUniqueName": "E:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj",
         "projectName": "Just0ne.RabbitMQ",
-        "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj",
+        "projectPath": "E:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\Just0ne.RabbitMQ.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "e:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\obj\\",
+        "outputPath": "E:\\MyGitHubProject\\Frame\\Just0ne.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -90,8 +94,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj": {
-                "projectPath": "e:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj"
+              "E:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj": {
+                "projectPath": "E:\\MyGitHubProject\\Frame\\Just0ne.Common\\Just0ne.Common.csproj"
               }
             }
           }

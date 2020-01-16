@@ -1,0 +1,8 @@
+E:\MyGitHubProject\Frame\Just0ne.Common\bin\Debug\netstandard2.0\Just0ne.Common.deps.json
+E:\MyGitHubProject\Frame\Just0ne.Common\bin\Debug\netstandard2.0\Just0ne.Common.dll
+E:\MyGitHubProject\Frame\Just0ne.Common\bin\Debug\netstandard2.0\Just0ne.Common.pdb
+E:\MyGitHubProject\Frame\Just0ne.Common\obj\Debug\netstandard2.0\Just0ne.Common.csprojAssemblyReference.cache
+E:\MyGitHubProject\Frame\Just0ne.Common\obj\Debug\netstandard2.0\Just0ne.Common.AssemblyInfoInputs.cache
+E:\MyGitHubProject\Frame\Just0ne.Common\obj\Debug\netstandard2.0\Just0ne.Common.AssemblyInfo.cs
+E:\MyGitHubProject\Frame\Just0ne.Common\obj\Debug\netstandard2.0\Just0ne.Common.dll
+E:\MyGitHubProject\Frame\Just0ne.Common\obj\Debug\netstandard2.0\Just0ne.Common.pdb

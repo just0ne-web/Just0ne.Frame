@@ -1,0 +1,8 @@
+E:\MyGitHubProject\Frame\Just0ne.Redis\bin\Debug\netstandard2.0\Just0ne.Redis.deps.json
+E:\MyGitHubProject\Frame\Just0ne.Redis\bin\Debug\netstandard2.0\Just0ne.Redis.dll
+E:\MyGitHubProject\Frame\Just0ne.Redis\bin\Debug\netstandard2.0\Just0ne.Redis.pdb
+E:\MyGitHubProject\Frame\Just0ne.Redis\obj\Debug\netstandard2.0\Just0ne.Redis.csprojAssemblyReference.cache
+E:\MyGitHubProject\Frame\Just0ne.Redis\obj\Debug\netstandard2.0\Just0ne.Redis.AssemblyInfoInputs.cache
+E:\MyGitHubProject\Frame\Just0ne.Redis\obj\Debug\netstandard2.0\Just0ne.Redis.AssemblyInfo.cs
+E:\MyGitHubProject\Frame\Just0ne.Redis\obj\Debug\netstandard2.0\Just0ne.Redis.dll
+E:\MyGitHubProject\Frame\Just0ne.Redis\obj\Debug\netstandard2.0\Just0ne.Redis.pdb

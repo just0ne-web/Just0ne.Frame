@@ -1,0 +1,11 @@
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\bin\Debug\netstandard2.0\Just0ne.RabbitMQ.deps.json
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\bin\Debug\netstandard2.0\Just0ne.RabbitMQ.dll
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\bin\Debug\netstandard2.0\Just0ne.RabbitMQ.pdb
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\bin\Debug\netstandard2.0\Just0ne.Common.dll
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\bin\Debug\netstandard2.0\Just0ne.Common.pdb
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\obj\Debug\netstandard2.0\Just0ne.RabbitMQ.csprojAssemblyReference.cache
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\obj\Debug\netstandard2.0\Just0ne.RabbitMQ.AssemblyInfoInputs.cache
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\obj\Debug\netstandard2.0\Just0ne.RabbitMQ.AssemblyInfo.cs
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\obj\Debug\netstandard2.0\Just0ne.RabbitMQ.csproj.CopyComplete
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\obj\Debug\netstandard2.0\Just0ne.RabbitMQ.dll
+E:\MyGitHubProject\Frame\Just0ne.RabbitMQ\obj\Debug\netstandard2.0\Just0ne.RabbitMQ.pdb

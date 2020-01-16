@@ -1,0 +1,13 @@
+E:\MyGitHubProject\Frame\Just0ne.IRepository\bin\Debug\netcoreapp3.1\Just0ne.IRepository.deps.json
+E:\MyGitHubProject\Frame\Just0ne.IRepository\bin\Debug\netcoreapp3.1\Just0ne.IRepository.dll
+E:\MyGitHubProject\Frame\Just0ne.IRepository\bin\Debug\netcoreapp3.1\Just0ne.IRepository.pdb
+E:\MyGitHubProject\Frame\Just0ne.IRepository\bin\Debug\netcoreapp3.1\Just0ne.Common.dll
+E:\MyGitHubProject\Frame\Just0ne.IRepository\bin\Debug\netcoreapp3.1\Just0ne.Model.dll
+E:\MyGitHubProject\Frame\Just0ne.IRepository\bin\Debug\netcoreapp3.1\Just0ne.Common.pdb
+E:\MyGitHubProject\Frame\Just0ne.IRepository\bin\Debug\netcoreapp3.1\Just0ne.Model.pdb
+E:\MyGitHubProject\Frame\Just0ne.IRepository\obj\Debug\netcoreapp3.1\Just0ne.IRepository.csprojAssemblyReference.cache
+E:\MyGitHubProject\Frame\Just0ne.IRepository\obj\Debug\netcoreapp3.1\Just0ne.IRepository.AssemblyInfoInputs.cache
+E:\MyGitHubProject\Frame\Just0ne.IRepository\obj\Debug\netcoreapp3.1\Just0ne.IRepository.AssemblyInfo.cs
+E:\MyGitHubProject\Frame\Just0ne.IRepository\obj\Debug\netcoreapp3.1\Just0ne.IRepository.csproj.CopyComplete
+E:\MyGitHubProject\Frame\Just0ne.IRepository\obj\Debug\netcoreapp3.1\Just0ne.IRepository.dll
+E:\MyGitHubProject\Frame\Just0ne.IRepository\obj\Debug\netcoreapp3.1\Just0ne.IRepository.pdb
