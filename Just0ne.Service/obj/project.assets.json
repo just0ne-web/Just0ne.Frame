@@ -636,6 +636,21 @@
         "runtime": {
           "bin/placeholder/Just0ne.Redis.dll": {}
         }
+      },
+      "Just0ne.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Just0ne.Common": "1.0.0",
+          "Just0ne.IRepository": "1.0.0",
+          "Just0ne.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Just0ne.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Just0ne.Repository.dll": {}
+        }
       }
     }
   },
@@ -2795,6 +2810,11 @@
       "type": "project",
       "path": "../Just0ne.Redis/Just0ne.Redis.csproj",
       "msbuildProject": "../Just0ne.Redis/Just0ne.Redis.csproj"
+    },
+    "Just0ne.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Just0ne.Repository/Just0ne.Repository.csproj",
+      "msbuildProject": "../Just0ne.Repository/Just0ne.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2804,7 +2824,8 @@
       "Just0ne.IService >= 1.0.0",
       "Just0ne.Model >= 1.0.0",
       "Just0ne.RabbitMQ >= 1.0.0",
-      "Just0ne.Redis >= 1.0.0"
+      "Just0ne.Redis >= 1.0.0",
+      "Just0ne.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2848,6 +2869,9 @@
             },
             "E:\\MyGitHubProject\\Frame\\Just0ne.Redis\\Just0ne.Redis.csproj": {
               "projectPath": "E:\\MyGitHubProject\\Frame\\Just0ne.Redis\\Just0ne.Redis.csproj"
+            },
+            "E:\\MyGitHubProject\\Frame\\Just0ne.Repository\\Just0ne.Repository.csproj": {
+              "projectPath": "E:\\MyGitHubProject\\Frame\\Just0ne.Repository\\Just0ne.Repository.csproj"
             }
           }
         }

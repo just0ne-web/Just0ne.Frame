@@ -19,3 +19,5 @@ E:\MyGitHubProject\Frame\Just0ne.Service\obj\Debug\netcoreapp3.1\Just0ne.Service
 E:\MyGitHubProject\Frame\Just0ne.Service\obj\Debug\netcoreapp3.1\Just0ne.Service.csproj.CopyComplete
 E:\MyGitHubProject\Frame\Just0ne.Service\obj\Debug\netcoreapp3.1\Just0ne.Service.dll
 E:\MyGitHubProject\Frame\Just0ne.Service\obj\Debug\netcoreapp3.1\Just0ne.Service.pdb
+E:\MyGitHubProject\Frame\Just0ne.Service\bin\Debug\netcoreapp3.1\Just0ne.Repository.dll
+E:\MyGitHubProject\Frame\Just0ne.Service\bin\Debug\netcoreapp3.1\Just0ne.Repository.pdb

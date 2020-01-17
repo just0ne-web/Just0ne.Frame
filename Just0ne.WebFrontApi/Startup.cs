@@ -60,15 +60,14 @@ namespace Just0ne.WebFrontApi
 
         public void ConfigureContainer(ContainerBuilder builder)
         {
-            var assemblys = new List<Assembly>();//Service是继承接口的实现方法类库名称
+            var assemblys = new List<Assembly>();//Service是继承接口的实现方法类库名称 
             string assemblysStr = "Just0ne.Repository^Just0ne.Service^Just0ne.IService^Just0ne.IRepository"; //程序集名称
+            var baseType = typeof(IDependency);
             foreach (var item in assemblysStr.Split("^"))
             {
                 assemblys.Add(Assembly.Load(item));
             }
-            builder.RegisterAssemblyTypes(assemblys.ToArray());
-            builder.RegisterGeneric(typeof(BaseService<>)).As(typeof(IBaseService<>)).InstancePerDependency();
-            builder.RegisterGeneric(typeof(BaseRepository<>)).As(typeof(IBaseRepository<>)).InstancePerDependency();
+            builder.RegisterAssemblyTypes(assemblys.ToArray()).Where(m => baseType.IsAssignableFrom(m) && m != baseType).AsImplementedInterfaces().InstancePerLifetimeScope().InstancePerDependency();
         }
 
     }

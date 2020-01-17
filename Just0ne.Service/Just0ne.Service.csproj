@@ -9,8 +9,9 @@
 	   <ProjectReference Include="..\Just0ne.Model\Just0ne.Model.csproj" />
       <ProjectReference Include="..\Just0ne.IRepository\Just0ne.IRepository.csproj" />
       <ProjectReference Include="..\Just0ne.IService\Just0ne.IService.csproj" />
-      <ProjectReference Include="..\Just0ne.RabbitMQ\Just0ne.RabbitMQ.csproj" />
       <ProjectReference Include="..\Just0ne.Redis\Just0ne.Redis.csproj" />
+      <ProjectReference Include="..\Just0ne.RabbitMQ\Just0ne.RabbitMQ.csproj" />
+      <ProjectReference Include="..\Just0ne.Repository\Just0ne.Repository.csproj" />
   </ItemGroup>
 
 </Project>

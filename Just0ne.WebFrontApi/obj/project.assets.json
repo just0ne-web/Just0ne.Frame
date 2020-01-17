@@ -692,7 +692,8 @@
           "Just0ne.IService": "1.0.0",
           "Just0ne.Model": "1.0.0",
           "Just0ne.RabbitMQ": "1.0.0",
-          "Just0ne.Redis": "1.0.0"
+          "Just0ne.Redis": "1.0.0",
+          "Just0ne.Repository": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Just0ne.Service.dll": {}
